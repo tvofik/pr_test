@@ -1,0 +1,11 @@
+## PR CHECKLIST
+- [ ] Does the new code adhere to the overall system architecture and design patterns?
+- [ ] Is the code modular and reusable rather than tightly coupled?
+- [ ] Are database schema changes (if any) properly designed for scalability and efficiency?
+- [ ] Does the code introduce unnecessary complexity that could be simplified?
+- [ ] Are there potential issues with concurrency, race conditions, or thread safety?
+- [ ] Does the new implementation introduce technical debt that should be addressed?
+- [ ] Are dependencies correctly managed and used efficiently?
+- [ ] Does the solution align with existing business logic and domain models?
+- [ ] If this PR modifies API behavior, are consumers of the API properly accounted for?
+- [ ] Is the new code optimized for horizontal/vertical scaling?
