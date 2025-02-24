@@ -1,5 +1,5 @@
 ## PR CHECKLIST
-- [ ] Does the new code adhere to the overall system architecture and design patterns?
+<!-- - [ ] Does the new code adhere to the overall system architecture and design patterns?
 - [ ] Is the code modular and reusable rather than tightly coupled?
 - [ ] Are database schema changes (if any) properly designed for scalability and efficiency?
 - [ ] Does the code introduce unnecessary complexity that could be simplified?
@@ -10,7 +10,7 @@
 - [ ] If this PR modifies API behavior, are consumers of the API properly accounted for?
 - [ ] Is the new code optimized for horizontal/vertical scaling?
 
-Security Risks Identified - For any applicable items on the "Submitter Checklist," Describe the impact of the change and any implemented migrations.
+Security Risks Identified - For any applicable items on the "Submitter Checklist," Describe the impact of the change and any implemented migrations. -->
 
 | Checklist | Yes | No |
 | :-------- | :-: | :-:|
