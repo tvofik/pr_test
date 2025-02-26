@@ -9,3 +9,10 @@
 | Does the solution align with existing business logic and domain models? | x | x |
 | If this PR modifies API behavior, are consumers of the API properly accounted for? | x | x |
 | Is the new code optimized for horizontal/vertical scaling? | x | x |
+
+### Checklist
+- [ ] Tested by Submitter
+- [ ] Tested by Second Party 
+- [ ] Corresponding Jira ticket is referenced in branch name
+- [ ] commented code in appropriate places 
+- [ ] Updated documentation where necessary
